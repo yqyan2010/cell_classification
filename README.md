@@ -6,3 +6,4 @@ This repository contains code that is used for cell classification project
 
 ### Description
 kmeans.py - this code is used for kmeans clustering of single cell phenotyping; it contains clustering, output and visualization of kmeans results.
+combine.py - this code contains class "Combine" used for data curation (eg combine, separate, divide, filter data frame)
